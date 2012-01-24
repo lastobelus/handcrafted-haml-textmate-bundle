@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>}, :id =&gt; "selector"</string>
 	<key>scope</key>
-	<string>text.haml, meta.section.attributes.haml</string>
+	<string>text.haml, meta.section.attributes.haml, source.ruby</string>
 	<key>tabTrigger</key>
 	<string>,</string>
 	<key>uuid</key>

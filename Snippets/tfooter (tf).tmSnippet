@@ -3,15 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>%dl
-	$0</string>
+	<string>%tfoot
+  %tr
+    %td
+      ${1:Table Data} $0</string>
 	<key>name</key>
-	<string>dl</string>
+	<string>tfooter (tf)</string>
 	<key>scope</key>
 	<string>text.haml</string>
 	<key>tabTrigger</key>
-	<string>dl</string>
+	<string>tf</string>
 	<key>uuid</key>
-	<string>AEADC4F5-C60A-4CF3-9D50-50BB56225677</string>
+	<string>DC278D00-A3FB-4FD9-B1E9-D9655B007E19</string>
 </dict>
 </plist>
